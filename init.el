@@ -51,7 +51,7 @@
        neotree           ; a project drawer, like NERDTree for vim
        password-store    ; password manager for nerds
        pdf               ; pdf enhancements
-      ;rgb               ; creating color strings
+       rgb               ; creating color strings
        rotate-text       ; cycle region at point between text candidates
        term              ; terminals in Emacs
        tmux              ; an API for interacting with tmux
@@ -64,14 +64,14 @@
        clojure           ; java with a lisp
 ;       csharp            ; unity, .NET, and mono shenanigans
        data              ; config/data formats
-       elixir            ; erlang done right
-       elm               ; care for a cup of TEA?
+       ;; elixir            ; erlang done right
+       ;; elm               ; care for a cup of TEA?
        emacs-lisp        ; drown in parentheses
-       ess               ; emacs speaks statistics
-       go                ; the hipster dialect
-       (haskell +intero) ; a language that's lazier than I am
+       ;; ess               ; emacs speaks statistics
+       ;; go                ; the hipster dialect
+       ;; (haskell +intero) ; a language that's lazier than I am
 ;       hy                ; readability of scheme w/ speed of python
-       (java +meghanada) ; the poster child for carpal tunnel syndrome
+       ;; (java +meghanada) ; the poster child for carpal tunnel syndrome
        javascript        ; all(hope(abandon(ye(who(enter(here))))))
 ;       julia             ; a better, faster MATLAB
        latex             ; writing papers in Emacs has never been so fun
@@ -79,7 +79,7 @@
 ;       lua               ; one-based indices? one-based indices
        markdown          ; writing docs for people to ignore
        nix               ; I hereby declare "nix geht mehr!"
-       ocaml             ; an objective camel
+       ;; ocaml             ; an objective camel
        (org              ; organize your plain life in plain text
         +attach          ; custom attachment system
         +babel           ; running code in org
@@ -91,14 +91,14 @@
 ;       php               ; perl's insecure younger brother
        plantuml          ; diagrams for confusing people more
 ;       purescript        ; javascript, but functional
-       python            ; beautiful is better than ugly
+       ;; python            ; beautiful is better than ugly
        rest              ; Emacs as a REST client
-       ruby              ; 1.step do {|i| p "Ruby is #{i.even? ? 'love' : 'life'}"}
-       rust              ; Fe2O3.unwrap().unwrap().unwrap().unwrap()
-       scala             ; java, but good
-       sh                ; she sells (ba|z)sh shells on the C xor
-       swift             ; who asked for emoji variables?
-       typescript        ; javascript, but better
+       ;; ruby              ; 1.step do {|i| p "Ruby is #{i.even? ? 'love' : 'life'}"}
+       ;; rust              ; Fe2O3.unwrap().unwrap().unwrap().unwrap()
+       ;; scala             ; java, but good
+       ;; sh                ; she sells (ba|z)sh shells on the C xor
+       ;; swift             ; who asked for emoji variables?
+       ;; typescript        ; javascript, but better
        web               ; the tubes
 
        ;; Applications are complex and opinionated modules that transform Emacs
